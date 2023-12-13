@@ -3,6 +3,9 @@ class HelloITI{
 		System.out.print("Hello ITI");
 	}
 
+	public void printMain(){
+		System.out.print("Hello Mina");
+
 
 	public void printAliBranch(){
 		System.out.print("Ali's Branch");
@@ -12,6 +15,5 @@ class HelloITI{
 		
 		System.out.println("mohamed Branch");
 	
-
 	}
 }
